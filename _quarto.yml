@@ -15,7 +15,9 @@ website:
       
 format: 
   html:
-    theme: minty
+    theme: 
+      - minty
+      - WWW/custom.scss
     toc: true
   
 

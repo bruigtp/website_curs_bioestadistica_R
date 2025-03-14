@@ -1,8 +1,10 @@
 ---
-format: html
+format: 
+  html:
+    toc: false
 ---
 
-## Applied Biostatistics Course with R
+## Applied Biostatistics Course with R <img src="WWW/logo.png" align="right" width="300"/>
 
 This course is an introduction to the use of the open-source software R for clinical data analysis. The course covers the theoretical foundations of descriptive statistics, between-group comparisons, hypothesis testing, linear and logistic regression, and survival analysis. These sessions will be combined with more hands-on sessions where students will see real-world examples using R. Students will also learn how to interpret results obtained with R and how to use these results to make decisions.
 
