@@ -9,3 +9,9 @@ format:
 This course is an introduction to the use of the open-source software R for clinical data analysis. The course covers the theoretical foundations of descriptive statistics, between-group comparisons, hypothesis testing, linear and logistic regression, and survival analysis. These sessions will be combined with more hands-on sessions where students will see real-world examples using R. Students will also learn how to interpret results obtained with R and how to use these results to make decisions.
 
 In this website you will find how to install all the materials in your computer using R (<a href = "https://bruigtp.github.io/website_curs_bioestadistica_R/how_to.html">Install materials</a>) and access all the class slides that are available online (<a href = "https://bruigtp.github.io/website_curs_bioestadistica_R/slides.html">Slides</a>).
+
+<hr>
+
+#### Authors
+
+<a href = "https://www.germanstrias.org/en/technology-services/biostatistics/">**Biostatistics Support and Research Unit**</a><br>Germans Trias i Pujol Research Institute and Hospital (IGTP)<br> Badalona, Spain
